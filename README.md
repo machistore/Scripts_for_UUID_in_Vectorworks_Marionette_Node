@@ -48,7 +48,7 @@ The [release](https://github.com/machistore/Scripts_for_UUID_in_Vectorworks_Mari
 Open the vwx file downloaded from Assets in Vectorworks and use it.
 
 
-[リリース]https://github.com/machistore/Scripts_for_UUID_in_Vectorworks_Marionette_Node/releases)にはVectorworks（vwx）形式のファイルが含まれています。
+[リリース](https://github.com/machistore/Scripts_for_UUID_in_Vectorworks_Marionette_Node/releases)にはVectorworks（vwx）形式のファイルが含まれています。
 
 Assetsからダウンロードしたvwxファイルをベクターワークスで開いて使用してください。
 
