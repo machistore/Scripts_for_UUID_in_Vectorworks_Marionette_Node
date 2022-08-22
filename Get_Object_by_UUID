@@ -1,5 +1,5 @@
 
-#Written by Katsutoshi.Machida Aug. 2022
+#Written by Katsutoshi Machida Aug. 2022
 @Marionette.NodeDefinition
 class Params(metaclass = Marionette.OrderedClass):
 #APPEARANCE
