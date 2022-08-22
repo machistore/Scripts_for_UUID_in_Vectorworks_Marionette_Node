@@ -1,4 +1,4 @@
-# Script_for_UUID_in_Vectorworks_Marionette_Nodes
+# Scripts_for_UUID_in_Vectorworks_Marionette_Node
 
 Script for Vectorworks marionette node about UUID.
 
