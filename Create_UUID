@@ -1,0 +1,30 @@
+
+#Written by Katsutoshi Machida Aug. 2022
+@Marionette.NodeDefinition
+class Params(metaclass = Marionette.OrderedClass):
+#APPEARANCE
+	#Name
+	this = Marionette.Node( 'Create UUID' )
+	this.SetDescription( 'Create UUID strings' )
+	
+	#Input Ports
+	
+	
+	#OIP Controls
+	
+	
+	#Output Ports
+	s = Marionette.PortOut('sUUID')
+	s.SetDescription('The UUID strings value')
+	
+#BEHAVIOR
+
+def RunNode(self):
+	#inputs
+	
+	
+	#script
+	sUUID = vs.CreateUUID()
+	
+	#outputs
+	self.Params.s.value = sUUID
