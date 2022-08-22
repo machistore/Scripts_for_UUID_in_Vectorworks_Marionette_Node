@@ -46,9 +46,13 @@ The file is available in Vectorworks 2016 and 2019 versions.
 
 Please use it according to your environment.
 
+Version 2016 has not been tested to work. Please understand.
+
 ファイルはベクターワークス2016と2019のバージョンを用意しました。
 
 使用環境に応じて使用してください。
+
+　- バージョン2016の動作確認はされておりません。ご了承下さい。
 
 # Author
 
