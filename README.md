@@ -1,6 +1,6 @@
 # Nodes_of_UUID_with_Vectorworks_Marionette
 
-Script for Vectorworks marionette node about UUIDs.
+Script for Vectorworks marionette node about UUID.
 
 This directory contains three scripts for "Create UUID", "Get Object UUID" and "Get Object by UUID".
 
