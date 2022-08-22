@@ -1,0 +1,30 @@
+
+#Written by Katsutoshi.Machida Aug. 2022
+@Marionette.NodeDefinition
+class Params(metaclass = Marionette.OrderedClass):
+#APPEARANCE
+	#Name
+	this = Marionette.Node( 'Get Object UUID' )	
+	this.SetDescription('The function GetObjectUuid returns the UUID of the referenced object.')
+
+	#Input Ports
+	hObj = Marionette.PortIn( 'hObj' ) 
+	hObj.SetDescription('Handle of the Object')
+
+	#OIP Controls
+
+	#Output Ports
+	UUID = Marionette.PortOut('sUUID')
+	UUID.SetDescription('The UUID')	
+
+#BEHAVIOR 
+
+def RunNode(self):
+	#inputs
+	hObj = self.Params.hObj.value
+
+	#script
+	s = vs.GetObjectUuid(hObj)
+
+	#outputs
+	self.Params.UUID.value = s
