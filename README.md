@@ -41,16 +41,16 @@ Vectorworks2016 or later with either Architect, Landmark, Spotlight or Design Su
 
 # Installation
 
-The release contains files in Vectorworks (vwx) format.
+The [release](https://github.com/machistore/Scripts_for_UUID_in_Vectorworks_Marionette_Node/releases) contains files in Vectorworks (vwx) format.
 
 - **UUID_nodes_20XX.vwx**
 
-Open the downloaded file in Vectorworks and use it.
+Open the vwx file downloaded from Assets in Vectorworks and use it.
 
 
-リリースにはVectorworks（vwx）形式のファイルが含まれています。
+[リリース]https://github.com/machistore/Scripts_for_UUID_in_Vectorworks_Marionette_Node/releases)にはVectorworks（vwx）形式のファイルが含まれています。
 
-ダウンロードしたファイルをベクターワークスで開いて使用してください。
+Assetsからダウンロードしたvwxファイルをベクターワークスで開いて使用してください。
 
 
 # Note
