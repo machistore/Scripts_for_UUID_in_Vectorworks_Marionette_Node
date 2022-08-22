@@ -1,13 +1,13 @@
 # Nodes_of_UUID_with_Vectorworks_Marionette
 
-Vectorworks marionette scripts and nodes for UUID.
+Script for Vectorworks marionette node about UUIDs.
 
-This directory contains three scripts and nodes for "Create UUID", "Get Object UUID" and "Get Object by UUID".
+This directory contains three scripts for "Create UUID", "Get Object UUID" and "Get Object by UUID".
 
 
-UUIDに関するVectorworks マリオネットのスクリプトとノードです。
+UUIDに関するベクターワークスマリオネットノードのためのスクリプトです。
 
-このディレクトリには「Create UUID」、「Get Object UUID」、「Get Object by UUID」の3つのスクリプトとノードが含まれています。
+このディレクトリには「Create UUID」、「Get Object UUID」、「Get Object by UUID」の3つのスクリプトが含まれています。
 
 
 # DEMO
